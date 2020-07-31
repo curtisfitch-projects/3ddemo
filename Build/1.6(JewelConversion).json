@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "THOTHTech_Jewel",
+"dataUrl": "1.6(JewelConversion).data.unityweb",
+"wasmCodeUrl": "1.6(JewelConversion).wasm.code.unityweb",
+"wasmFrameworkUrl": "1.6(JewelConversion).wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
